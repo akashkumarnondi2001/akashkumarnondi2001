@@ -14,10 +14,6 @@ I am an **M.Sc. Computer Science** student at **Technische Universität Darmstad
   A machine learning framework designed to analyze text data and classify news articles as real or fabricated through NLP preprocessing and model optimization.  
   *Tech Stack:* `Python` • `Scikit-learn` • `Pandas` • `NLP`
 
-* 💡 **[Your New Project Name](https://github.com)**  
-  Brief description of what this project builds or solves.  
-  *Tech Stack:* `Language` • `Framework` • `Database`
-
 * 📄 **Published Research: Speech Emotion Recognition from Audio Data Using LSTM Model**  
   Published in the *International Journal of Advanced Computer Science and Applications (IJACSA)*, Vol. 16, No. 7 (2025).  
   [Read Publication](https://thesai.org) | *DOI:* `10.14569/IJACSA.2025.0160726`
