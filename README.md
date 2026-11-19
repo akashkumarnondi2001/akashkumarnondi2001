@@ -15,8 +15,8 @@ I am an **M.Sc. Computer Science** student at **Technische Universität Darmstad
   *Tech Stack:* `Python` • `Scikit-learn` • `Pandas` • `NLP`
 
 * 📄 **Published Research: Speech Emotion Recognition from Audio Data Using LSTM Model**  
-  Published in the *International Journal of Advanced Computer Science and Applications (IJACSA)*, Vol. 16, No. 7 (July 2025).  
-  [Read Publication](thesai.org/Publications/ViewPaper?Volume=16&Issue=7&Code=IJACSA&SerialNo=26) | *DOI:* `10.14569/IJACSA.2025.0160726`
+  Published in the *International Journal of Advanced Computer Science and Applications (IJACSA)*, Vol. 16, No. 7 (2025).  
+  [Read Publication](https://thesai.org) | *DOI:* `10.14569/IJACSA.2025.0160726`
 
 ---
 
@@ -32,5 +32,5 @@ I am an **M.Sc. Computer Science** student at **Technische Universität Darmstad
 ### 📫 Connect With Me
 
 * **Email:** akash.nondi2001@gmail.com
-* **LinkedIn:** [linkedin.com/in/akash-nondi-360738450]
-* **Google Play:** [AnnO App](play.google.com/store/apps/details?id=com.akashkumarnondi.anno)
+* **LinkedIn:** [linkedin.com/in/akash-nondi-360738450](https://linkedin.com)
+* **Google Play:** [AnnO App](https://google.com)
