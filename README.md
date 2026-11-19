@@ -6,7 +6,7 @@ I am an **M.Sc. Computer Science** student at **Technische Universität Darmstad
 
 ### 🚀 Featured Projects & Research
 
-* 📱 **[AnnO (Android Application)](https://google.com)**  
+* 📱 **[AnnO (Android Application)]([https://google.com](https://play.google.com/store/apps/details?id=com.akashkumarnondi.anno))**  
   A full-featured community app published on the Google Play Store supporting donations, rentals, buy/sell listings, delivery assistance, and job posts.  
   *Tech Stack:* `Dart` • `Flutter` • `Firebase`
 
@@ -33,4 +33,4 @@ I am an **M.Sc. Computer Science** student at **Technische Universität Darmstad
 
 * **Email:** akash.nondi2001@gmail.com
 * **LinkedIn:** [linkedin.com/in/akash-nondi-360738450](https://linkedin.com)
-* **Google Play:** [AnnO App](https://google.com)
+* **Google Play:** [AnnO App]([https://google.com](https://play.google.com/store/apps/details?id=com.akashkumarnondi.anno))
