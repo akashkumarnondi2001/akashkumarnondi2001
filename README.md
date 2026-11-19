@@ -6,13 +6,17 @@ I am an **M.Sc. Computer Science** student at **Technische Universität Darmstad
 
 ### 🚀 Featured Projects & Research
 
-* 📱 **[AnnO (Android Application)]([https://google.com](https://play.google.com/store/apps/details?id=com.akashkumarnondi.anno))**  
+* 📱 **[AnnO (Android Application)](https://google.com)**  
   A full-featured community app published on the Google Play Store supporting donations, rentals, buy/sell listings, delivery assistance, and job posts.  
   *Tech Stack:* `Dart` • `Flutter` • `Firebase`
 
 * 📰 **Fake News Detection**  
   A machine learning framework designed to analyze text data and classify news articles as real or fabricated through NLP preprocessing and model optimization.  
   *Tech Stack:* `Python` • `Scikit-learn` • `Pandas` • `NLP`
+
+* 💡 **[Your New Project Name](https://github.com)**  
+  Brief description of what this project builds or solves.  
+  *Tech Stack:* `Language` • `Framework` • `Database`
 
 * 📄 **Published Research: Speech Emotion Recognition from Audio Data Using LSTM Model**  
   Published in the *International Journal of Advanced Computer Science and Applications (IJACSA)*, Vol. 16, No. 7 (2025).  
@@ -33,4 +37,4 @@ I am an **M.Sc. Computer Science** student at **Technische Universität Darmstad
 
 * **Email:** akash.nondi2001@gmail.com
 * **LinkedIn:** [linkedin.com/in/akash-nondi-360738450](https://linkedin.com)
-* **Google Play:** [AnnO App]([https://google.com](https://play.google.com/store/apps/details?id=com.akashkumarnondi.anno))
+* **Google Play:** [AnnO App](https://google.com)
